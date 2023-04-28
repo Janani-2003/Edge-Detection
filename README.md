@@ -106,23 +106,13 @@ plt.show()
 #### Sobel xy
 <br>![sobelxy](https://user-images.githubusercontent.com/94288340/235216207-da431f6a-2426-47c7-acc3-bb31b391871a.png)
 <br>
-
-
 ### LAPLACIAN EDGE DETECTOR
 <br>![laplacian](https://user-images.githubusercontent.com/94288340/235216295-3904c6b9-fae7-4ec3-a295-c666cf2613b9.png)
-
 <br>
 <br>
 <br>
-<br>
-<br>
-
-
 ### CANNY EDGE DETECTOR
 <br>![canny](https://user-images.githubusercontent.com/94288340/235216335-b4052856-37d0-4be1-b015-e970adc7bdd8.png)
-
-<br>
-<br>
 <br>
 <br>
 <br>
